@@ -18,7 +18,7 @@ echo   \ 5. Paint
 echo   \ 6. Internet Explorer
 echo   \ 7. Cyrphz GitHub
 echo   \ 8. Cyrphz Youtube
-echo   \ 9. Sair
+echo   \ 9. Exit
 echo   -----------------------------------------
 echo.
 
