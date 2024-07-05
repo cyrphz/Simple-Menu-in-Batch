@@ -3,7 +3,7 @@ mode Con: lines=30 Cols=60
 title Menu Exemple - By cyrphz
 color 02
 
-:to return
+::to return
 :Main 
 cls
 
