@@ -3,7 +3,8 @@ mode Con: lines=30 Cols=60
 title Menu Exemple - By cyrphz
 color 02
 
-:Main ::to return
+:to return
+:Main 
 cls
 
 echo.
@@ -28,6 +29,7 @@ choice /c "123456789" /n /m "Enter a number> "
 ::choice value return to errorlevel
 goto %errorlevel%
 
+::set after the choise
 :1
 start calc.exe
 goto Main
